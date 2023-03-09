@@ -1,0 +1,138 @@
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\latihan layout.exe.config
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\latihan layout.exe
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\latihan layout.pdb
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraGauges.v22.2.Win.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraGauges.v22.2.Win.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\obj\Debug\latihan layout.csproj.AssemblyReference.cache
+C:\Users\Theo\source\repos\latihan layout\latihan layout\obj\Debug\latihan layout.csproj.SuggestedBindingRedirects.cache
+C:\Users\Theo\source\repos\latihan layout\latihan layout\obj\Debug\latihan_layout.Form1.resources
+C:\Users\Theo\source\repos\latihan layout\latihan layout\obj\Debug\latihan_layout.Properties.Resources.resources
+C:\Users\Theo\source\repos\latihan layout\latihan layout\obj\Debug\latihan layout.csproj.GenerateResource.cache
+C:\Users\Theo\source\repos\latihan layout\latihan layout\obj\Debug\latihan layout.exe.licenses
+C:\Users\Theo\source\repos\latihan layout\latihan layout\obj\Debug\latihan layout.csproj.CoreCompileInputs.cache
+C:\Users\Theo\source\repos\latihan layout\latihan layout\obj\Debug\latihan layout.csproj.CopyComplete
+C:\Users\Theo\source\repos\latihan layout\latihan layout\obj\Debug\latihan layout.exe
+C:\Users\Theo\source\repos\latihan layout\latihan layout\obj\Debug\latihan layout.pdb
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\obj\Debug\latihan layout.csproj.ResolveComReference.cache
+C:\Users\Theo\source\repos\latihan layout\latihan layout\obj\Debug\latihan_layout.Form2.resources
+C:\Users\Theo\source\repos\latihan layout\latihan layout\obj\Debug\latihan_layout.Form3.resources
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Map.v22.2.Core.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraMap.v22.2.dll
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.Map.v22.2.Core.xml
+C:\Users\Theo\source\repos\latihan layout\latihan layout\bin\Debug\DevExpress.XtraMap.v22.2.xml
+D:\TA Theo\latihan layout\latihan layout\obj\Debug\latihan layout.csproj.AssemblyReference.cache
+D:\TA Theo\latihan layout\latihan layout\obj\Debug\latihan layout.csproj.ResolveComReference.cache
+D:\TA Theo\latihan layout\latihan layout\obj\Debug\latihan layout.exe
+D:\TA Theo\latihan layout\latihan layout\obj\Debug\latihan layout.pdb
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\latihan layout.exe.config
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\latihan layout.exe
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\latihan layout.pdb
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.Images.v22.2.dll
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.Data.v22.2.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.Map.v22.2.Core.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.XtraGauges.v22.2.Win.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.XtraMap.v22.2.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\TA Theo\latihan layout\latihan layout\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\TA Theo\latihan layout\latihan layout\obj\Debug\latihan_layout.Form1.resources
+D:\TA Theo\latihan layout\latihan layout\obj\Debug\latihan_layout.Form2.resources
+D:\TA Theo\latihan layout\latihan layout\obj\Debug\latihan_layout.Form3.resources
+D:\TA Theo\latihan layout\latihan layout\obj\Debug\latihan_layout.Properties.Resources.resources
+D:\TA Theo\latihan layout\latihan layout\obj\Debug\latihan layout.csproj.GenerateResource.cache
+D:\TA Theo\latihan layout\latihan layout\obj\Debug\latihan layout.exe.licenses
+D:\TA Theo\latihan layout\latihan layout\obj\Debug\latihan layout.csproj.CoreCompileInputs.cache
+D:\TA Theo\latihan layout\latihan layout\obj\Debug\latihan layout.csproj.CopyComplete
